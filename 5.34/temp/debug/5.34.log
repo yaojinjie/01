@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+d:\高階語言作業\hw3-2\5.34\source\main.c(8): warning C4013: 'power' 未定義; 假設 extern 傳回整數
+d:\高階語言作業\hw3-2\5.34\source\main.c(13): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\高階語言作業\hw3-2\5.34\source\main.c(15): warning C4716: 'power': 必須傳回值
+  5.34.vcxproj -> D:\高階語言作業\HW3-2\5.34\HW\5.34\5.34\..\..\..\temp\debug\5.34.exe
